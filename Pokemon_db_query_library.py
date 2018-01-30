@@ -1,4 +1,3 @@
-https://github.com/AustinCan/Portfolio_Projects.git
 import sqlite3
 
 conn = sqlite3.connect('Pokemon.db')
