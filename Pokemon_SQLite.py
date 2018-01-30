@@ -1,4 +1,3 @@
-https://github.com/AustinCan/Portfolio_Projects.git
 import sqlite3
 from Pokemon_Stat_Lists_By_Generation import *
 
