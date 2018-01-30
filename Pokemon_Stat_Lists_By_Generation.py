@@ -1,4 +1,3 @@
-https://github.com/AustinCan/Portfolio_Projects.git
 Gen1_List = [
 	(1,'Bulbasaur',45,49,49,65,65,45,318,53),
 	(2,'Ivysaur',60,62,63,80,80,60,405,67.5),
