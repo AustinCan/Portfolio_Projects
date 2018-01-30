@@ -1,0 +1,7 @@
+Pokemon Database
+An SQLite database that stores pokemon game statistics.
+
+The stats table was scraped from Bulbapedia.com using google sheets. 
+Then it was scrubbed.
+Then separated into lists small enough to be read into the newlymade SQLite database.
+A query library was created for users to organize the data by stat.
